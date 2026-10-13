@@ -1,0 +1,26 @@
+site_name: APIs for Mere Mortals
+site_description: Plain-language API guides — no CS degree required.
+site_url: https://paulsullivan33-dev.github.io/api-for-mere-mortals/
+
+# Guides live at the repo root (nice for GitHub browsing).
+# The deploy workflow copies them into docs/ before building.
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - What Is an API?: what-is-an-api.md
+  - HTTP in 10 Minutes: http.md
+  - REST: rest.md
+  - JSON: json.md
+  - Your First API Call: first-call.md
+  - Query Params and Headers: query-params-and-headers.md
+  - Authentication: authentication.md
+  - Building an API: building-an-api.md
+  - Status Codes: status-codes.md
+  - Versioning and Docs: versioning-and-docs.md
+  - Rate Limits and Paging: rate-limits-and-paging.md
+  - Webhooks: webhooks.md
+  - Troubleshooting: troubleshooting.md
+  - Glossary: glossary.md
+  - Writing Criteria: criteria.md
