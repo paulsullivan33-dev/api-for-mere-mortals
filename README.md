@@ -61,3 +61,19 @@ that sends real data somewhere real.
 
 *Written to the [nine-point writing standard](criteria.md) shared by
 every guide in this series.*
+
+---
+
+## Part of the series
+
+This guide is one of the [For Mere Mortals](https://paulsullivan33-dev.github.io/mere-mortals/) guides: plain-language guides to the tools programmers and makers use.
+
+Related guides:
+
+- [curl for Mere Mortals](https://paulsullivan33-dev.github.io/curl-for-mere-mortals/)
+- [jq for Mere Mortals](https://paulsullivan33-dev.github.io/jq-for-mere-mortals/)
+- [Node.js for Mere Mortals](https://paulsullivan33-dev.github.io/nodejs-for-mere-mortals/)
+
+## License
+
+The writing in this guide is licensed under [CC BY 4.0](https://github.com/paulsullivan33-dev/api-for-mere-mortals/blob/main/LICENSE). Code examples and lab scripts are licensed under the [MIT License](https://github.com/paulsullivan33-dev/api-for-mere-mortals/blob/main/LICENSE-CODE).
